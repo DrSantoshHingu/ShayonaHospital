@@ -54,10 +54,6 @@ Hospital_Website/
     ├── hospital-building.jpg
     ├── doctor-1.jpg
     ├── doctor-2.jpg
-    ├── doctor-3.jpg
-    ├── doctor-4.jpg
-    ├── doctor-5.jpg
-    ├── doctor-6.jpg
     ├── icu-facility.jpg
     ├── operation-theatre.jpg
     ├── ambulance.jpg
@@ -149,13 +145,8 @@ Edit the CSS variables in `style.css`:
 **Hospital Details:**
 - Name: Shayona Multispeciality Hospital & ICU
 - Location: Palanpur Canal Road, Gujarat, India
-- Phone: +91 2742 234 567
-- Emergency: +91 98765 43210
-- Email: info@shayonahospital.com
+- Phone: +91 70690 30200
 
-## 📄 License
-
-This project is created for educational/college project purposes.
 
 ## 👨‍💻 Developer Notes
 
@@ -177,4 +168,5 @@ This website is designed to be:
 ---
 
 **Built with ❤️ for better healthcare**
+
 
